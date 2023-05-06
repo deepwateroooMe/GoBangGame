@@ -1,0 +1,7 @@
+#+latex_class: cn-article
+#+title: GoBang WinForm game
+
+- having not really any win-form project. 
+- list one for reference.
+  
+[[./pic/readme_20230505_192732.png]]
